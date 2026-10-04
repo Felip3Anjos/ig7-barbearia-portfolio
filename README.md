@@ -54,13 +54,13 @@ Nenhum dado real de cliente, senha, chave privada, token administrativo ou crede
 ### Experiência mobile
 
 <p align="center">
-  <img src="docs/screenshots/home-mobile.jpg" width="30%" />
-  <img src="docs/screenshots/booking-service-mobile.jpg" width="30%" />
-  <img src="docs/screenshots/booking-time-mobile.jpg" width="30%" />
+  <img src="docs/screenshots/home-mobile.jpeg" width="30%" />
+  <img src="docs/screenshots/booking-service-mobile.jpeg" width="30%" />
+  <img src="docs/screenshots/booking-time-mobile.jpeg" width="30%" />
 </p>
 
 ### Pacotes
 
 <p align="center">
-  <img src="docs/screenshots/packages-mobile.jpg" width="32%" />
+  <img src="docs/screenshots/packges-mobile.jpeg" width="32%" />
 </p>
