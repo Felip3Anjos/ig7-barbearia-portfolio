@@ -38,3 +38,29 @@ A aplicação real valida permissões no backend/banco, usa RLS, tokens seguros 
 ## Observação
 
 Nenhum dado real de cliente, senha, chave privada, token administrativo ou credencial de produção é incluído neste repositório.
+
+## Screenshots
+
+### Página pública
+
+![Página inicial desktop](docs/screenshots/home-desktop.png)
+
+### Sistema administrativo
+
+![Dashboard](docs/screenshots/dashboard-desktop.png)
+
+![Agenda](docs/screenshots/agenda-desktop.png)
+
+### Experiência mobile
+
+<p align="center">
+  <img src="docs/screenshots/home-mobile.jpg" width="30%" />
+  <img src="docs/screenshots/booking-service-mobile.jpg" width="30%" />
+  <img src="docs/screenshots/booking-time-mobile.jpg" width="30%" />
+</p>
+
+### Pacotes
+
+<p align="center">
+  <img src="docs/screenshots/packages-mobile.jpg" width="32%" />
+</p>
